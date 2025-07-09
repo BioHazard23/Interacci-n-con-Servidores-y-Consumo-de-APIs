@@ -1,3 +1,10 @@
+# Autor
+    Nombre: Juan Manuel Arango Arana
+    Clan: Van Rossum
+
+# Link repositorio GitHub
+    https://github.com/BioHazard23/Interacci-n-con-Servidores-y-Consumo-de-APIs
+
 # Interacción con Servidores y Consumo de APIs
     Este proyecto consiste en una implementacion de un CRUD, utilizando JavaScript, Fetch API y un servidor en este caso JSON Server.
 
@@ -52,7 +59,3 @@
       { id: '3', nombre: 'Teclado', precio: 275 },
       { id: '207b', nombre: 'Monitor', precio: 400 }
     ]
-
-# Autor
-    Nombre: Juan Manuel Arango Arana
-    Clan: Van Rossum
